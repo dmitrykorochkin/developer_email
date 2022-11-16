@@ -1,1 +1,1 @@
-# developer_email
+# Верстка email писем
